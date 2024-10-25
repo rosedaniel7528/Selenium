@@ -10,6 +10,7 @@ public class Trail {
 	public void hiturl()
 	{
 		System.out.println("link opened");
+		System.out.println("GOOD BRO");
 	}
 	@AfterTest
 	public void closeurl()
