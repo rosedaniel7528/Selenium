@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-30T14:25:04 IST" name="Default suite" finished-at="2024-09-30T14:25:04 IST" duration-ms="51">
+    <groups>
+    </groups>
+    <test started-at="2024-09-30T14:25:04 IST" name="Default test" finished-at="2024-09-30T14:25:04 IST" duration-ms="51">
+      <class name="test.Child">
+        <test-method is-config="true" signature="hiturl()[pri:0, instance:test.Child@bd4dc25]" started-at="2024-09-30T14:25:04 IST" name="hiturl" finished-at="2024-09-30T14:25:04 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hiturl -->
+        <test-method signature="dothis()[pri:0, instance:test.Child@bd4dc25]" started-at="2024-09-30T14:25:04 IST" name="dothis" finished-at="2024-09-30T14:25:04 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dothis -->
+        <test-method is-config="true" signature="closeurl()[pri:0, instance:test.Child@bd4dc25]" started-at="2024-09-30T14:25:04 IST" name="closeurl" finished-at="2024-09-30T14:25:04 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeurl -->
+      </class> <!-- test.Child -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
