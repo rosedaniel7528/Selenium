@@ -11,7 +11,15 @@ public class Trail {
 	{
 		System.out.println("link opened");
 		System.out.println("GOOD BRO");
+
 		System.out.println("GOOD sure");
+
+		System.out.println("link opened");
+		System.out.println("GOOD BRO");
+		System.out.println("link opened");
+		System.out.println("GOOD BRO");
+		System.out.println("link opened");
+		System.out.println("GOOD BRO");
 	}
 	@AfterTest
 	public void closeurl()
